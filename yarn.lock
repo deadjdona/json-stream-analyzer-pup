@@ -3177,10 +3177,10 @@ regexpp@^3.2.0:
   resolved "https://registry.yarnpkg.com/regexpp/-/regexpp-3.2.0.tgz#0425a2768d8f23bad70ca4b90461fa2f1213e1b2"
   integrity sha512-pq2bWo9mVD43nbts2wGv17XLiNLya+GklZ8kaDLV2Z08gDCsGpnKn9BFMepvWuHCbyVvY7J5o5+BVvoQbmlJLg==
 
-renovate-config-algolia@2.1.10:
-  version "2.1.10"
-  resolved "https://registry.yarnpkg.com/renovate-config-algolia/-/renovate-config-algolia-2.1.10.tgz#fef86b9b152624e1b42c66f268f9ccf7e6159eed"
-  integrity sha512-AxMxZWZMyOAdIMka9OZo6QZwqjjX3+BA1QRZqgEZhL29Jxn3Ugdk9e5f+gGaPZukmmoZW+ymUJ5Z/2qhc93G3g==
+renovate-config-algolia@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/renovate-config-algolia/-/renovate-config-algolia-2.2.0.tgz#4403ed3a28cc45c1971f2b5f246828391ddf4132"
+  integrity sha512-brq8Y870NMBIPQD/5rusz0b/hApaCGm37U16YwX1Cp+VyxD+pRvVzmnD/s5uUxxzsk9hsstsT+Wh0aabPLHb+g==
 
 require-directory@^2.1.1:
   version "2.1.1"
